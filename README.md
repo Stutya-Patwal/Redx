@@ -14,7 +14,7 @@ Redx is an ethical hacking tool designed to assist security professionals and et
 Redx is a Python-based ethical hacking tool that facilitates the process of gathering information about targets, conducting IP address lookups, scanning ports, and more. It is designed for ethical purposes only and should not be used for malicious activities. Redx can be run from the terminal and provides a user-friendly interface for interacting with its functionalities.
 
 ## Getting Started 
-1. Clone the Redx repository from [GitHub](https://github.com/your-username/redx).
+1. Clone the Redx repository from [GitHub](https://github.com/Stutya-Patwal/Redx).
 2. Install the required dependencies using `pip` by running `pip install -r requirements.txt`.
 3. Run the Redx tool by executing the `main.py` file.
 
