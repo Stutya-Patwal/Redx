@@ -1,0 +1,10 @@
+requests
+socket
+whois
+re
+subprocess
+ssl
+datetime
+ipaddress
+dns.resolver
+random
